@@ -1,0 +1,9 @@
+langchain
+openai
+python-dotenv
+flask
+langchain_openai
+pinecone-client
+langchain_google_genai
+supabase
+flask-cors
